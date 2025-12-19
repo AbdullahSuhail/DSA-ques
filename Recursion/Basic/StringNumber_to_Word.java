@@ -19,7 +19,7 @@ class Main {
     public static void main(String[] args) 
     {
 
-    String word[]={"zero","one ","two","three","four","fice","six","seve","eight","nine"};     
+    String word[]={"zero","one ","two","three","four","five","six","seven","eight","nine"};     
       
       String number="2022";
       
