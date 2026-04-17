@@ -1,3 +1,12 @@
+
+
+
+'''TOPIC 
+Array
+Hash Table
+Math
+Weekly Contest 478'''
+
 class Solution:
     def minMirrorPairDistance(self, nums: List[int]) -> int:
 
